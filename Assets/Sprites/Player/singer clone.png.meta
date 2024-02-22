@@ -1,0 +1,446 @@
+fileFormatVersion: 2
+guid: 65619fef2d957014eb5ea605247cd11a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4432377122788515772
+    second: singer clone_0
+  - first:
+      213: 5028056552395226824
+    second: singer clone_1
+  - first:
+      213: 3400786748815448320
+    second: singer clone_2
+  - first:
+      213: -6257332801596740631
+    second: singer clone_3
+  - first:
+      213: -1117438689755833360
+    second: singer clone_4
+  - first:
+      213: 6196333535425481519
+    second: singer clone_5
+  - first:
+      213: -6165452700565967067
+    second: singer clone_6
+  - first:
+      213: -3809362724721917022
+    second: singer clone_7
+  - first:
+      213: 4330661914124585827
+    second: singer clone_8
+  - first:
+      213: 7577614803322687159
+    second: singer clone_9
+  - first:
+      213: -8170507812586088024
+    second: singer clone_10
+  - first:
+      213: -7111300178090036907
+    second: singer clone_11
+  - first:
+      213: -7051409891785821202
+    second: singer clone_12
+  - first:
+      213: 455442332569001551
+    second: singer clone_13
+  - first:
+      213: -4450671674465248306
+    second: singer clone_14
+  - first:
+      213: 256139213785432624
+    second: singer clone_15
+  - first:
+      213: -6228705772685547961
+    second: singer clone_16
+  - first:
+      213: -2469591268063475676
+    second: singer clone_17
+  - first:
+      213: -4347008671971500534
+    second: singer clone_18
+  - first:
+      213: 2529105156230205488
+    second: singer clone_19
+  - first:
+      213: -7778766065395347134
+    second: singer clone_20
+  - first:
+      213: -5682531241623504635
+    second: singer clone_21
+  - first:
+      213: 2307749320172448434
+    second: singer clone_22
+  - first:
+      213: -5139252018412589211
+    second: singer clone_23
+  - first:
+      213: 6207447183527009733
+    second: singer clone_24
+  - first:
+      213: 2664432739020254691
+    second: singer clone_25
+  - first:
+      213: -3423807531623259091
+    second: singer clone_26
+  - first:
+      213: 9121892324351224764
+    second: singer clone_27
+  - first:
+      213: 6396883723314898812
+    second: singer clone_28
+  - first:
+      213: 893929661183095321
+    second: singer clone_29
+  - first:
+      213: 7746266998802981002
+    second: singer clone_30
+  - first:
+      213: -5424872039492949932
+    second: singer clone_31
+  - first:
+      213: 599792973124721024
+    second: singer clone_32
+  - first:
+      213: 5157065071324732096
+    second: singer clone_33
+  - first:
+      213: 2145077083871002020
+    second: singer clone_34
+  - first:
+      213: 6126245143170822807
+    second: singer clone_35
+  - first:
+      213: 1104846758051135851
+    second: singer clone_36
+  - first:
+      213: 2721387021923523355
+    second: singer clone_37
+  - first:
+      213: 46401224630311130
+    second: singer clone_38
+  - first:
+      213: 5066982819301532085
+    second: singer clone_39
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: singer clone_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4406f959d780d72c0800000000000000
+      internalID: -4432377122788515772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: singer clone_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ceb71c6bce37c540800000000000000
+      internalID: 5028056552395226824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: singer clone_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0091008a785023f20800000000000000
+      internalID: 3400786748815448320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: singer clone_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb2d6f38fc7929a0800000000000000
+      internalID: -6257332801596740631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: singer clone_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb53de9e6f0e70f0800000000000000
+      internalID: -1117438689755833360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: singer clone_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b40e8558ccdf550800000000000000
+      internalID: 6196333535425481519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: singer clone_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52fea4f4f69ef6aa0800000000000000
+      internalID: -6165452700565967067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: singer clone_7
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a30654e8cc622bc0800000000000000
+      internalID: -3809362724721917022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: singer clone_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b85b9e01a991c30800000000000000
+      internalID: 4330661914124585827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: singer clone_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be4ac40488192960800000000000000
+      internalID: 7577614803322687159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

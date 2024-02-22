@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/TitleSceen.unity
+    guid: bd84ec53d83bd6c4e8241215514110c2
+  - enabled: 1
+    path: Assets/Scenes/IntroAreaScenes/IntroAreaScene1.unity
+    guid: d463665d8daba8d42bad8186868c320a
+  - enabled: 1
+    path: Assets/Scenes/IntroAreaScenes/IntroAreaScene2.unity
+    guid: 15547147fb089e64e9bc90cf7aeff91b
+  - enabled: 1
+    path: Assets/Scenes/IntroAreaScenes/IntroAreaScene3.unity
+    guid: ccdfca4a0039d1741ab1b7da932ed14b
+  - enabled: 1
+    path: Assets/Scenes/IntroAreaScenes/IntroAreaScene4.unity
+    guid: 6f0457886d4344147a03e8f0901490a5
+  - enabled: 1
+    path: Assets/Scenes/IntroAreaScenes/IntroAreaScene5.unity
+    guid: d77a09196789c2b4d8e3f20d7673abf1
+  - enabled: 1
+    path: Assets/Scenes/IntroAreaScenes/IntroAreaScene6.unity
+    guid: e9b830b108dd2a44f972c988905fcb30
+  - enabled: 1
+    path: Assets/Scenes/IntroAreaScenes/IntroAreaBossArena.unity
+    guid: 43c9f487ece26064893d0df0d157ac2b
+  - enabled: 1
+    path: Assets/Scenes/CityScenes/CityScene1.unity
+    guid: 1da1a61287cddd1458a1a89b8bc214ff
+  - enabled: 1
+    path: Assets/Scenes/CityScenes/CityScene2.unity
+    guid: 898e7e957b63b204fb350340be58f490
+  - enabled: 1
+    path: Assets/Scenes/CityScenes/CityScene3.unity
+    guid: 8cc1021767cea494ba96497cb648a303
+  - enabled: 1
+    path: Assets/Scenes/CityScenes/CityScene4.unity
+    guid: 8d2661092c4225947b0918e6a8a7bdcd
+  - enabled: 1
+    path: Assets/Scenes/CityScenes/CitySceneStation1.unity
+    guid: 29fa797307f459f49837ceb6c10a44b5
+  - enabled: 1
+    path: Assets/Scenes/CityScenes/CitySceneStationRight.unity
+    guid: bf8c0387b22b7314d925271d2c4b0f48
+  - enabled: 1
+    path: Assets/Scenes/CityScenes/TrainStation1.unity
+    guid: 13e7aa66cc62a634ca690f83602b41c4
+  - enabled: 1
+    path: Assets/Scenes/CityScenes/TrainStation2.unity
+    guid: 4fda1df955f33ea4d8f7f90aa3202245
+  - enabled: 1
+    path: Assets/Scenes/CatwalksScenes/CatwalksCenterScene.unity
+    guid: b71aee30f652bf74894fb9d41f6589f3
+  - enabled: 1
+    path: Assets/Scenes/CatwalksScenes/CatwalksTerminalEntranceLeftScene.unity
+    guid: caea243dda73f3842b111e0571f306e6
+  - enabled: 1
+    path: Assets/Scenes/CatwalksScenes/CatwalksTerminalEntranceRightScene.unity
+    guid: 11bf2b145c1d6ed4b9489475907f6ce7
+  - enabled: 1
+    path: Assets/Scenes/CatwalksScenes/CatwalksLeftScene.unity
+    guid: 57d17ba27edb8174bb8651c8f12a6f9d
+  - enabled: 1
+    path: Assets/Scenes/CatwalksScenes/NPCRoomScene.unity
+    guid: 8ed6f0b76ec99d542a9ca1103538758f
+  - enabled: 1
+    path: Assets/Scenes/ThePitScenes/ThePitRightScene.unity
+    guid: db2fb17908fbef94eb826ba78b3d7d1d
+  - enabled: 1
+    path: Assets/Scenes/ThePitScenes/ThePitLeftScene.unity
+    guid: 71762919ab9e0c0449aef11ba3e28ed4
+  - enabled: 1
+    path: Assets/Scenes/ThePitScenes/ThePitCenterScene.unity
+    guid: 4ceddf902d920f045b545226984c3b12
+  - enabled: 1
+    path: Assets/Scenes/EndScreen.unity
+    guid: 5a91811e9d3eb8e439297d88b3abbbfe
+  m_configObjects: {}
